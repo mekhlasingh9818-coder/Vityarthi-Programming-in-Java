@@ -48,7 +48,7 @@ StudentGradeSystem/
 ### Steps to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/AzhaanGlitch/VITyarthi-Project.git
+git clone https://github.com/mekhlasingh9818-coder/Vityarthi-Programming-in-Java.git
 cd StudentGradeSystem
 ```
 
