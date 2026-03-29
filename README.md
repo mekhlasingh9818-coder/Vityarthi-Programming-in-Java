@@ -89,17 +89,6 @@ java -cp bin Main
 ### Class Diagram
 ![Class Diagram](/docs/diagrams/02-class-diagram.png)
 
-## Screenshots
-
-### Main Menu
-![Main Menu](/docs/screenshots/01-main-menu.png)
-
-### Student Report
-![Student Report](/docs/screenshots/04-student-report.png)
-
-### Class Statistics
-![Class Statistics](docs/screenshots/05-class-statistics.png)
-
 ## Non-Functional Requirements
 - **Performance**: Responds within 1 second for all operations
 - **Usability**: Simple menu-driven interface
